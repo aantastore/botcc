@@ -1,0 +1,14 @@
+TUTORIAL PENGISTALAN GURABOT
+
+COMMAND TERMUX
+$ pkg install nodejs git ffmpeg libwebp
+$ apt update
+$ apt upgrade
+$ git clone https://github.com/DepinKunn/GuraBase
+$ cd GuraBase
+$ npm i
+$ npm start
+
+Note:
+Jika Ada module Yang kurang chat
+wa.me/628871746203
